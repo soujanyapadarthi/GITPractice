@@ -1,0 +1,12 @@
+ Volume in drive C is Windows-SSD
+ Volume Serial Number is 8AE6-1647
+
+ Directory of C:\Users\saipc\OneDrive\Documents\Soujanya\GITPractice
+
+02-09-2024  15:08    <DIR>          .
+02-09-2024  14:57    <DIR>          ..
+02-09-2024  15:08                 0 f2.txt
+02-09-2024  14:58                10 m1.txt
+02-09-2024  14:58                10 m2.txt
+               3 File(s)             20 bytes
+               2 Dir(s)  309,221,969,920 bytes free
